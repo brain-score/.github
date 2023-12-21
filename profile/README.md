@@ -1,6 +1,6 @@
 ## Welcome to Brain-Score! 🧠
 
-We're trying to help construct better computational models of the brain through benchmarking. 
+The Brain-Score platform aims to yield strong computational models of the brain and mind. We enable researchers to quickly get a sense of the alignment of their model(s) to currently dozens of neural and behavioral measurements, and provide these models to experimentalists to prototype new experiments and make sense of biological data. 
 
 If you’re new to Brain-Score, [our documentation and tutorials](https://brain-score.readthedocs.io/en/latest/index.html) are a good place to get started.
 
