@@ -5,7 +5,7 @@ The Brain-Score platform aims to yield strong computational models of the brain 
 If you’re a new user to Brain-Score, our [tutorials](https://www.brain-score.org/tutorials) are a good place to get started.
 
 ### Contribute
-Want to contribute to development? Please see our GitHub repositories and thier developer docs, linked below. 
+Want to contribute to development? Please see our GitHub repositories and their developer docs, linked below. 
 
 * [Brain-Score Vision](https://github.com/brain-score/brain-score) [[docs]](https://brain-score.readthedocs.io/en/latest/): Evaluate computational models of brain function on their match to brain measurements in vision (human and non-human primate)
 * [Brain-Score Language](https://github.com/brain-score/language) [[docs]](https://brain-score-language.readthedocs.io/en/latest/): Evaluate computational models of brain function on their match to brain measurements in language
