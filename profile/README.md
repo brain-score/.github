@@ -10,6 +10,6 @@ Want to contribute to development? Please see our GitHub repositories and their 
 * [Brain-Score Vision](https://github.com/brain-score/brain-score) [[docs]](https://brain-score.readthedocs.io/en/latest/): Evaluate computational models of brain function on their match to brain measurements in vision (human and non-human primate)
 * [Brain-Score Language](https://github.com/brain-score/language) [[docs]](https://brain-score-language.readthedocs.io/en/latest/): Evaluate computational models of brain function on their match to brain measurements in language
 * [Brain-Score Core](https://github.com/brain-score/core) [[docs]](https://brain-score-core.readthedocs.io/en/latest/): Infrastructure shared across domains, e.g. submission handling, plugin management, and evaluation
-* [Brain-Score Web](https://github.com/brain-score/brain-score.web) [[docs]](https://brain-scoreweb.readthedocs.io/en/latest/modules/brain-score_web.html#extraneous-website-information): The Brain-Score website, www.brain-score.org
+* [Brain-Score Web](https://github.com/brain-score/brain-score.web) [[docs]](https://brain-scoreweb.readthedocs.io/en/latest/): The Brain-Score website, www.brain-score.org
 
 We’ve got a list of open issues in each of the above GitHub repositories; claim one or submit your own!
